@@ -1,1 +1,2 @@
-{"web":{"client_id":"954552518682-mntpltbketdmj449f67gj60qvs1nmo47.apps.googleusercontent.com","project_id":"quickstart-1596196730207","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"N_gfjiOBLT_4FCrgNXa2DnPp","javascript_origins":["http://localhost:8000"]}}
+export const API_KEY = "AIzaSyD-bggbcMIkYn0s6tHWTBnZVoKnSDdJwh8"
+export const CLIENT_ID = "826904042177-fftm44jrk2r81npl26r8q780hsk733th.apps.googleusercontent.com"
